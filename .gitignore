@@ -1,0 +1,10 @@
+# Dependencies & Local Builds
+.vercel
+node_modules/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Redundant workspace folder
+natgeo-article-ui/
